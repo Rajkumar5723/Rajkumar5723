@@ -1,5 +1,5 @@
 # Rajkumar G - Aspiring Data Scientist 🎓  
-![Profile Banner](https://via.placeholder.com/1000x200?text=Welcome+to+My+GitHub) <!-- Replace this with your custom banner -->
+![Profile Banner](https://github.com/Rajkumar5723/Rajkumar5723/blob/main/banner.png) <!-- Replace this with your custom banner -->
 
 ---
 
