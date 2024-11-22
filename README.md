@@ -7,9 +7,20 @@
 Hi there! I'm **Rajkumar G**, a passionate **B.Tech student in Artificial Intelligence & Data Science (2022-2026)**. I love building projects that solve real-world problems using **data science** and **machine learning**.  
 
 🌟 **Key Highlights:**  
-- 🏆 Achieved **Top 50 in EcoAI Challenge** by IIM Ahmedabad (2023)  
 - 🎯 Built multiple projects focusing on **data insights** and **ML solutions**  
 - 💡 Always learning and exploring new technologies  
+
+---
+## 🏆 Awards & Achievements
+
+- **EcoAI Challenge** (2023):  
+  - Ranked **Top 50 out of 2969** in a nationwide competition conducted by **IIM Ahmedabad**.
+  
+- **National Level Hackathon** (2024):  
+  - Secured **1st Place out of 50 teams** at Arunai Engineering College.
+
+- **Data Quezt 2025** (2024):  
+  - Achieved **Top 5 out of 500 participants** in this prestigious competition.
 
 ---
 
@@ -73,5 +84,3 @@ Analyzed trends in book ratings, availability, and genres using **web scraping**
 ---
 
 ⭐ **If you like my work, consider starring my repositories or reaching out for collaboration!**  
-
-![Footer Image](https://via.placeholder.com/800x100?text=Thank+you+for+visiting!)
