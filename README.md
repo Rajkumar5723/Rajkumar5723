@@ -1,5 +1,5 @@
 # Rajkumar G - Aspiring Data Scientist 🎓  
-![Profile Banner](https://github.com/Rajkumar5723/Rajkumar5723/blob/main/banner.png) <!-- Replace this with your custom banner -->
+![Profile Banner](https://github.com/Rajkumar5723/Rajkumar5723/blob/main/Banner.png) <!-- Replace this with your custom banner -->
 
 ---
 
@@ -49,7 +49,16 @@ A sentiment analysis website providing insights from social media comments, incl
 ### 📘 [**BookPopInsights** - Visualizing Book Popularity](#)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)  
 Analyzed trends in book ratings, availability, and genres using **web scraping** and **Tableau dashboards**.  
-- **Achievements**: Delivered actionable insights for platform-specific book performance.  
+- **Achievements**: Delivered actionable insights for platform-specific book performance.
+
+
+### ☎️ [**BPO Assist** - AI-Powered Call Center Analytics](#)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Llama](https://img.shields.io/badge/-Llama-6533C0?logo=llama&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
+
+An AI-powered tool for **call centers** and **BPOs**, providing real-time **sentiment analysis, customer intent detection**, and **conversation summarization** using **Llama**.  
+- **Features**: Live sentiment tracking, automated call summarization, and AI-driven agent response suggestions.  
+- **Achievements**: Reduced negative sentiment cases by **30%** and improved resolution time by **25%** using **TensorFlow and PyTorch** models.  
+  
 
 ---
 
@@ -65,10 +74,10 @@ Analyzed trends in book ratings, availability, and genres using **web scraping**
 
 ## 📜 Certifications  
 
-- 🎓 [Google Data Analytics Professional](#)  
+- 🎓 [Google Data Analytics Professional](https://coursera.org/share/bc9192a9f6c1e2fea8e8cb0fc5fb2141)  
 - 🎓 [NPTEL Python for Data Science](#)  
 - 🎓 [Infosys Mastering Data Analysis with R](#)  
-- 🎓 [Google Advanced Data Analytics Professional](#)  
+- 🎓 [Google Advanced Data Analytics Professional](https://coursera.org/share/d31ccd4a5ba8166301712ed26d89dafd)  
 
 ---
 
