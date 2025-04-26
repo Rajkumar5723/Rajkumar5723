@@ -30,7 +30,7 @@
   <a href="mailto:g.p.rajkumar5@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://medium.com/@g.p.rajkumar5" target="_blank">
+  <a href="https://medium.com/@rajkumarg-aspiringdata" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
