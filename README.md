@@ -12,8 +12,8 @@
 <!-- ===================================================== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=44&pause=800&color=5FB8DD&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I%E2%80%99m+Rajkumar+G+%F0%9F%91%8B;AI+Developer+%7C+Data+Scientist+%7C+MLOps+Fan;Turning+ideas+into+production-ready+AI%2FML+systems;Let%E2%80%99s+innovate+together+at+AspiringData+🚀"
-         alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster&amp;size=44&amp;pause=800&amp;color=5FB8DD&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hey+there%2C+I%27m+Rajkumar+G+%F0%9F%91%8B;AI+Developer+%7C+Data+Scientist+%7C+MLOps+Fan;Turning+ideas+into+production-ready+AI%2FML+systems;Let%27s+innovate+together+at+AspiringData+%F0%9F%9A%80"
+         alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,7 +33,6 @@
   <a href="https://medium.com/@g.p.rajkumar5" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rajkumar5723.Rajkumar5723" alt="visitors"/>
 </p>
 
 ---
