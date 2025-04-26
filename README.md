@@ -1,7 +1,25 @@
+<!-- ===================================================== -->
+<!--  🌟 PERSONAL BANNER                                   -->
+<!-- ===================================================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Rajkumar+G+👋;AI+Developer+%7C+Data+Scientist+%7C+ML+Enthusiast;Welcome+to+my+GitHub+profile!;Exploring+AI%2C+ML%2C+Data+Science+%26+Automation" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Rajkumar5723/Rajkumar5723/main/Banner.png"
+       alt="Rajkumar G – AI Developer Banner"
+       width="100%" />
 </p>
 
+<!-- ===================================================== -->
+<!--  ✨ TYPING INTRO (new font & multi-line)               -->
+<!-- ===================================================== -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=44&pause=800&color=5FB8DD&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I%E2%80%99m+Rajkumar+G+%F0%9F%91%8B;AI+Developer+%7C+Data+Scientist+%7C+MLOps+Fan;Turning+ideas+into+production-ready+AI%2FML+systems;Let%E2%80%99s+innovate+together+at+AspiringData+🚀"
+         alt="Typing SVG"/>
+  </a>
+</p>
+
+<!-- ===================================================== -->
+<!--  🔗 QUICK LINKS & COUNTER                             -->
+<!-- ===================================================== -->
 <p align="center">
   <a href="https://rajkumarg.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7AE?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -15,62 +33,87 @@
   <a href="https://medium.com/@g.p.rajkumar5" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rajkumar5723.Rajkumar5723" alt="visitors"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-I’m **Rajkumar G**, a passionate **AI Developer**, **Data Scientist**, and lifelong learner under the personal brand **AspiringData** 🚀.  
-Currently pursuing **B.Tech in AI & Data Science (2022-2026)**.
+## 👋 About Me
+- 🎓 **B.Tech — Artificial Intelligence & Data Science (2022-26)**  
+- 💼 Turning research prototypes into **scalable, production-grade AI/ML systems**.  
+- 🔬 Focus areas: **NLP • Computer Vision • MLOps • Intelligent Automation**  
+- 🏆 Hackathon enthusiast & open-source contributor operating under **AspiringData**.  
 
-- 🔹 Building ML & AI-driven solutions  
-- 🔹 Exploring NLP, Computer Vision & Automation  
-- 🔹 Active participant in hackathons & research  
+---
+
+## ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajkumar5723&show_icons=true&theme=radical&hide=stars&rank_icon=github" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rajkumar5723&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumar5723&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
+
+<!-- 🏆 GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajkumar5723&theme=gruvbox&no-frame=true&margin-w=5&margin-h=5" />
+</p>
+
+---
+
+## 🛠️ Comprehensive Skill Map
+*(extracted automatically from my Next.js portfolio source code)*
+
+| **Category** | **Skills** |
+|--------------|------------|
+| **Programming Languages** | Python • R • C • Java • SQL • JavaScript |
+| **ML / AI Frameworks** | TensorFlow • PyTorch • Scikit-learn • Keras • Transformers |
+| **Data & Analytics** | Pandas • NumPy • Apache Spark • Tableau • Power BI • Big Data • DVC |
+| **Cloud & DevOps** | Azure • AWS • Docker • Git • GitHub • CI/CD Pipelines |
+| **Databases** | MySQL • PostgreSQL • MongoDB • SQLite |
+| **Web & APIs** | Flask • FastAPI • Node.js |
+| **Other Expertise** | Prompt Engineering • MLOps • Data Visualization • Modern AI Techniques |
 
 ---
 
 ## 🚀 Featured Projects
+| **Project** | **Stack** | **Highlights** |
+|-------------|-----------|----------------|
+| **BPO Assist** | Python · TensorFlow · LLaMA · Flask | AI-powered call-analytics platform cutting negative sentiment by **30 %**. |
+| **VibeCheckHQ** | Python · Flask · TensorFlow | Social-media sentiment monitoring with actionable dashboards. |
+| **BookPopInsights** | Python · Tableau | Interactive visual analytics on book-popularity trends. |
 
-| Project              | Tech Stack                                | Highlights                                |
-|----------------------|--------------------------------------------|--------------------------------------------|
-| **BPO Assist**       | Python, TensorFlow, Llama, Flask           | Real-time AI call analytics (↓30% neg. sentiment) |
-| **VibeCheckHQ**      | Python, Flask, TensorFlow                  | Social media sentiment analysis            |
-| **BookPopInsights**  | Python, Tableau                            | Book trend visualizations                  |
-| **Pulsar Classifier**| Python, Scikit-learn                       | Identifying pulsars from noise             |
-| **Loan Prediction**  | R, Shiny                                   | Predictive loan approval system            |
+<details>
+<summary>🧩 <b>Mini Projects — click to expand</b></summary>
 
-🔗 Explore more on [**My Portfolio**](https://rajkumarg.vercel.app)
+| Project | Tech | Highlights |
+|---------|------|------------|
+| **Meme Analyzer** | Python · ResNet-50 | Classifies & scores memes for sentiment & genre. |
+| **BPO Analysis** | Power BI | Interactive dashboards for call-center KPIs. |
+| **IPL Analysis** | Flask · Random Forest | Web app predicting IPL match outcomes with rich visuals. |
+| **Agrimp** | Flask · MongoDB · scikit-learn | Smart-farming: soil-fertility & crop-recommendation engine. |
 
----
+</details>
 
-## 🛠️ Technical&nbsp;Stack  
-
-| **Category**         | **Tools**                                                                                                                                                 |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming**      | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) |
-| **Data & Viz**       | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) |
-| **ML / AI Frameworks** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) |
-| **Databases**        | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **Cloud & DevOps**   | ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
-| **Web Technologies** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) |
-| **Tools & IDEs**     | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) |
-
----
-
-## 🎓 Certifications
-- Google Data Analytics Professional  
-- Google Advanced Data Analytics  
-- Infosys Data Analysis with R  
-- NPTEL Python for Data Science  
-
----
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajkumar5723&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajkumar5723&theme=radical" />
+  🔗&nbsp;For more projects, explore&nbsp;<a href="https://github.com/Rajkumar5723?tab=repositories"><strong>my full GitHub repository list</strong></a>.
 </p>
 
 ---
 
-⭐ *Thank you for visiting! Feel free to connect or collaborate on AI, ML, and Data Science projects!*  
+## 📑 Certifications
+- **Google Data Analytics Professional**  
+- **Google Advanced Data Analytics**  
+- **Infosys — Data Analysis with R**  
+- **NPTEL — Python for Data Science**  
+- **NPTEL — Programming in Java**
+
+---
+
+## 🤝 Let’s Connect
+*Open to collaborations, research, and hackathons — let’s build something amazing!*  
+
+<p align="center">
+  <a href="https://linkedin.com/in/rajkumarg-aspiringdata">
+    <img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
